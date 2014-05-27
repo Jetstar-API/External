@@ -1,4 +1,4 @@
 External
 ========
 
-All external API program go here
+All API programs for external partners go here
